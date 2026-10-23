@@ -1,0 +1,6 @@
+pydantic>=2
+numpy
+scikit-learn
+sentence-transformers
+datasets
+groq
